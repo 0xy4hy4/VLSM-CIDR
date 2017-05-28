@@ -1,8 +1,8 @@
 # VLSM-CIDR
 VLSM CIDR Calculator
 
-l'objectif mn had tool howa katkhaliik f nhare l exam fin de formation trba7 lwa9t o 7ta katkhalé l surveillant mayjriich m3ak prcq katkhdam f terminal + kat3ttik resultat f une table dans un fichier li kat3ttih nom 3la 7sab le nome li kayn fl question 
-
+l'objectif mn had tool howa katkhaliik f nhare l exam fin de formation trba7 lwa9t o 7ta katkhalé l surveillant mayjriich m3ak prcq katkhdam f terminal + kat3ttik resultat f une table dans un fichier li kat3ttih nom 3la 7sab le nome li kayn fl question o kay3ttik une table de vlsm f un fichier doc(x) 3la 7sab dakchi li matloub fl question 
+(مكانشجعش على النقلة غير باش تختصر الوقت و صافي)
 
 VLSM Calculation 
 
@@ -29,7 +29,7 @@ b nisba les hotes wakha tbda mn sghhir l kbiir wla l3aks
 
 
 
-mn ba3d kat sesai les nomes li 3andhom akbar valeur l asghar valeur (Site1R3,Site1R1,Site1R2,Site1R0)
+mn ba3d kat zid les nomes li 3andhom akbar valeur l asghar valeur (Site1R3,Site1R1,Site1R2,Site1R0)
 
 Mettre les noms des plus grands à moins : Site1R3,Site1R1,Site1R2,Site1R0
 
@@ -45,4 +45,6 @@ b nsiba l sortie dyal calculation machi hiya nafsha li fl file
 
 
 ![alt text](table.png
- "Description goes here")
+ "table de vlsm")
+ 
+ 
