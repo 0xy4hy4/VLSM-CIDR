@@ -1,10 +1,10 @@
 # VLSM-CIDR
-VLSM CIDR Calculator
+VLSM + CIDR Calculator
 
 l'objectif mn had tool howa katkhaliik f nhare l exam fin de formation trba7 lwa9t o 7ta katkhalé l surveillant mayjriich m3ak prcq katkhdam f terminal + kat3ttik resultat f une table dans un fichier li kat3ttih nom 3la 7sab le nome li kayn fl question o kay3ttik une table de vlsm f un fichier doc(x) 3la 7sab dakchi li matloub fl question 
 (مكانشجعش على النقلة غير باش تختصر الوقت و صافي)
 
-VLSM Calculation 
+                                                VLSM Calculation 
 
 
 example : 
@@ -47,4 +47,16 @@ b nsiba l sortie dyal calculation machi hiya nafsha li fl file
 ![alt text](table.png
  "table de vlsm")
  
+                                                 CIDR Calculation
+
+tool kat calculé 7ta CIDR bou7do 
+
+
+![alt text](cidr.png
+ "sortie CIDR")
+ 
+ 
+ 
+ 
+ kantmana t3jabkom tool o tfidkom wla kant 3andkom ayi afkar marhba siftouha liya fl email dyali o ntab9ouha nshaallah :) 
  
