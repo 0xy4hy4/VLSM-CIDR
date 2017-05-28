@@ -44,5 +44,5 @@ nom de fichier : variant1.doc
 b nsiba l sortie dyal calculation machi hiya nafsha li fl file 
 
 
-![alt text](Screenshot from 2017-05-28 03-42-48.png
+![alt text](table.png
  "Description goes here")
