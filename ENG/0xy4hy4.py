@@ -132,7 +132,7 @@ rassl7maar = """
             <P CLASS="kan9ra_f_darna" ALIGN=CENTER>First address</P>
       	  </TD>
       	  <TD WIDTH=89 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.03in; padding-right: 0in">
-      	      <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Last address hôte</P>
+      	      <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Last address</P>
       	  </TD>
       	  <TD WIDTH=89 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.03in; padding-right: 0in">
       	      <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Number of hosts</P>
