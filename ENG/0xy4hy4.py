@@ -29,8 +29,7 @@ if argv[1] == "-h" or argv[1] == "--help" :
     print (dirbi.RCA)
     print  "Usage: "+ argv[0] +" ip_address/mask host1 host2 host3 ....."
     print  "exemple: "+ argv[0] +" 192.168.10.0/23 10 5 240 26 "
-    print  "Mettre les noms des plus grands à moins : casa,rabat,Tanger,fés "
-    print  "(casa = 240) (rabat = 26) (Tanger = 10) (fés = 5) "
+    print  "Put the names of the biggest ones at least: Site1R3,Site1R1,Site1R2,Site1R0 "
     print base64.b64decode(oxy4hy4) + '\033[31m' + base64.b64decode(oxy4hy4_) + '\033[1;37m' +base64.b64decode(oxy4hy4_3)
     print
     exit(0)
@@ -71,11 +70,11 @@ if chi_7aja == None:
 
     print '\033[1;33m'+"\n\t\t\t\aCIDR Calculator"
     print "\t\t\t\a" + base64.b64decode(oxy4hy4) + base64.b64decode(oxy4hy4_) + '\n\t\t\t\a     ' + base64.b64decode(oxy4hy4_4)
-    print dirbi.RCA + "L'adresse sous réseau\t\t\a:   " , HM_Jiib_l3azz
-    print "Masque de sous réseau\t\t\a:   " , ".".join(map(str, mask_machi_d_anonymous))
-    print "Réseau\t\t\t\t:   " , ".".join(map(str, net))
-    print "L'adresse broadcast\t\t: "  ,  ".".join(map(str, broad))
-    print "Masque générique\t\t: "  ,  ".".join(wildcard_octet)
+    print dirbi.RCA + "Subnet\t\t\t\a:   " , HM_Jiib_l3azz
+    print "Subnet mask\t\t\a:   " , ".".join(map(str, mask_machi_d_anonymous))
+    print "Network\t\t\t:   " , ".".join(map(str, net))
+    print "Broadcast\t\t: "  ,   ".".join(map(str, broad))
+    print "Wildcard\t\t: "  ,   ".".join(wildcard_octet)
     exit(0)
 
 
@@ -117,26 +116,26 @@ rassl7maar = """
   	 	 <COL WIDTH=183>
    			 <TR VALIGN=TOP>
        	 <TD WIDTH=88 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.03in; padding-right: 0in">
-            <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Réseau</P>
+            <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Network</P>
        	 </TD>
       	  <TD WIDTH=89 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.03in; padding-right: 0in">
-            <P CLASS="kan9ra_f_darna" ALIGN=CENTER>L'adresse sous réseau</P>
+            <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Subnet</P>
       	  </TD>
      	   <TD WIDTH=89 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.03in; padding-right: 0in">
-            <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Masque de sous réseau 
+            <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Subnet mask 
             </P>
        	 </TD>
        	 <TD WIDTH=89 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.03in; padding-right: 0in">
-      	      <P CLASS="kan9ra_f_darna" ALIGN=CENTER>L'adresse broadcast</P>
+      	      <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Broadcast</P>
        	 </TD>
        	 <TD WIDTH=89 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.03in; padding-right: 0in">
-            <P CLASS="kan9ra_f_darna" ALIGN=CENTER>La premiére adresse hôte</P>
+            <P CLASS="kan9ra_f_darna" ALIGN=CENTER>First address</P>
       	  </TD>
       	  <TD WIDTH=89 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.03in; padding-right: 0in">
-      	      <P CLASS="kan9ra_f_darna" ALIGN=CENTER>La derniére adresse hôte</P>
+      	      <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Last address hôte</P>
       	  </TD>
       	  <TD WIDTH=89 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.03in; padding-right: 0in">
-      	      <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Nombre d'hôte</P>
+      	      <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Number of hosts</P>
           </TD>
           <TD WIDTH=89 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.03in; padding-right: 0in">
             <P CLASS="kan9ra_f_darna" ALIGN=CENTER>préfixe</P>
@@ -229,10 +228,10 @@ def norm(ip_lmard):
         addr_ISTA_RN[i] = str(addr_ISTA_RN[i])
     return ".".join(addr_ISTA_RN)
 
-aala5atrek=raw_input('Apparaitre dans un fichier? Oui (o) ou No (n) : ')
+aala5atrek=raw_input('Appear in a file? Yes (Y) or No (n) : ')
 
-if aala5atrek == "o" or aala5atrek == "O":
-  b3ny4hy4 =raw_input('nom de fichier : ')
+if aala5atrek == "y" or aala5atrek == "Y":
+  b3ny4hy4 =raw_input('Filename : ')
   ofppt_0 = open(b3ny4hy4 , 'w')
   ofppt_0.write(rassl7maar)
 
@@ -303,15 +302,15 @@ def vlso(ip_lmard, hosts):
 
 
         print(dirbi.RCA + """ 
- \tRéseau\t\t\t\a:\t""" + dirbi.WAC + """  %s""" + dirbi.RCA + """
- L'adresse sous réseau\t\t:""" + dirbi.WAC + """\t %15s""" + dirbi.RCA + """
- Masque de sous réseau\t\t: """ + dirbi.WAC +  """\t  %15s""" + dirbi.RCA + """
- L'adresse broadcast\t\t:""" + dirbi.WAC + """\t %15s""" + dirbi.RCA + """
- La premiére adresse hôte\t:""" + dirbi.WAC + """\t %15s""" + dirbi.RCA + """
- La derniére adresse hôte\t:""" + dirbi.WAC + """\t  %-15s""" + dirbi.RCA + """
- Le nombre d'hôtes possible\t:""" + dirbi.WAC + """\t%4d""" + dirbi.RCA + """
- Préfixe\t\t\t:""" + dirbi.WAC + """\t  /%d""" + dirbi.RCA + """
- Masque générique\t\t:""" + dirbi.WAC + """\t  /%s""" + dirbi.RCA + """
+ Network\t\t\a:\t""" + dirbi.WAC + """  %s""" + dirbi.RCA + """
+ Subnet\t\t\t:""" + dirbi.WAC + """\t %15s""" + dirbi.RCA + """
+ Subnet mask\t\t: """ + dirbi.WAC +  """\t  %15s""" + dirbi.RCA + """
+ Broadcast\t\t:""" + dirbi.WAC + """\t %15s""" + dirbi.RCA + """
+ First address\t\t:""" + dirbi.WAC + """\t %15s""" + dirbi.RCA + """
+ Last address\t\t:""" + dirbi.WAC + """\t  %-15s""" + dirbi.RCA + """
+ Number of hosts\t:""" + dirbi.WAC + """\t%4d""" + dirbi.RCA + """
+ Slash\t\t\t:""" + dirbi.WAC + """\t  /%d""" + dirbi.RCA + """
+ Wildcard\t\t:""" + dirbi.WAC + """\t  /%s""" + dirbi.RCA + """
                   """) % \
               (benyo[x],
                norm(ip_lmard),
@@ -330,7 +329,7 @@ def vlso(ip_lmard, hosts):
         ip_lmard = getnextaddr(ip_lmard, jiiblmask(int(32 - bits)))
 
 
-	if aala5atrek == "o" or aala5atrek == "O":
+	if aala5atrek == "y" or aala5atrek == "Y":
   		ofppt_0.write(viva_rca)
 
 
