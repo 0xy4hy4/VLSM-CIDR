@@ -29,7 +29,7 @@ if argv[1] == "-h" or argv[1] == "--help" :
     print (dirbi.RCA)
     print  "Usage: "+ argv[0] +" ip_address/mask host1 host2 host3 ....."
     print  "exemple: "+ argv[0] +" 192.168.10.0/23 10 5 240 26 "
-    print  "Put the names of the biggest ones at least: Site1R3,Site1R1,Site1R2,Site1R0 "
+    print  "Put the names of the greatest to least: Site1R3,Site1R1,Site1R2,Site1R0 "
     print base64.b64decode(oxy4hy4) + '\033[31m' + base64.b64decode(oxy4hy4_) + '\033[1;37m' +base64.b64decode(oxy4hy4_3)
     print
     exit(0)
@@ -79,7 +79,7 @@ if chi_7aja == None:
 
 
 
-khoutna = raw_input("Mettre les noms des plus grands à moins : ")
+khoutna = raw_input("Put the names of the greatest to least : ")
 benyo = khoutna.split(",") 
 
 
@@ -138,10 +138,10 @@ rassl7maar = """
       	      <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Number of hosts</P>
           </TD>
           <TD WIDTH=89 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.03in; padding-right: 0in">
-            <P CLASS="kan9ra_f_darna" ALIGN=CENTER>préfixe</P>
+            <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Slash</P>
           </TD>
           <TD WIDTH=89 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #000001; border-bottom: 1px solid #000001; border-left: 1px solid #000001; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.03in; padding-right: 0in">
-            <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Masque Générique</P>
+            <P CLASS="kan9ra_f_darna" ALIGN=CENTER>Wildcard</P>
           </TD>
     		</TR>
 """
