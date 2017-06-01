@@ -1,4 +1,4 @@
-###DARIJA ENG
+###DARIJA [ENG](/ENG)
 # VLSM-CIDR
 VLSM + CIDR Calculator
 
@@ -6,9 +6,11 @@ salam o 3alikom
 
 l'objectif mn had tool howa katkhaliik f nhare l exam fin de formation trba7 lwa9t o 7ta katkhalé l surveillant mayjriich m3ak prcq katkhdam f terminal + kat3ttik resultat f une table dans un fichier li kat3ttih nom 3la 7sab le nome li kayn fl question o kay3ttik une table de vlsm f un fichier doc(x) 3la 7sab dakchi li matloub fl question 
 (مكانشجعش على النقلة غير باش تختصر الوقت و صافي)
-,l'utilisation
+,l'utilisation :
+https://www.youtube.com/watch?v=eHNUXbretdo
 
-[![Youtube](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=eHNUXbretdo)
+
+
                                                 VLSM Calculation 
 
 ![alt text](help.png
