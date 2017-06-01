@@ -3,7 +3,12 @@ VLSM + CIDR Calculator
 
 salam all 
 
-the objective of this tool is to facilitation calculate the VLSM and CIDR , the results output shown on terminal + in file                                                 VLSM Calculation 
+the objective of this tool is to facilitation calculate the VLSM and CIDR , the results output shown on terminal + in file    
+
+, usage : https://www.youtube.com/watch?v=eHNUXbretdo
+
+
+                                     VLSM Calculation 
 
 ![alt text](1.png
  "help")
