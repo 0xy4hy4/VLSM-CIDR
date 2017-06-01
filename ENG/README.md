@@ -5,7 +5,7 @@ salam all
 
 the objective of this tool is to facilitation calculate the VLSM and CIDR , the results output shown on terminal + in file                                                 VLSM Calculation 
 
-![alt text](help.png
+![alt text](1.png
  "help")
 
 
@@ -43,13 +43,13 @@ Enter name with extenstion: ista.doc or .html .....etc
 Filename : istaRN.doc
 
 
-![alt text](table.png
+![alt text](3.png
  "table de vlsm")
  
                                                  CIDR Calculation
 
 
-![alt text](cidr.png
+![alt text](2.png
  "sortie CIDR")
  
  
